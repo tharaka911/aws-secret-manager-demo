@@ -46,3 +46,5 @@ getSecret()
   .catch((error) => {
     console.error("Failed to retrieve secret:", error);
   });
+
+  //check copyright file
