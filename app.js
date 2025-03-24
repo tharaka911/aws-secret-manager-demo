@@ -1,3 +1,5 @@
+// © 2025 nawwa. All Rights Reserved. 2025-03-24
+
 // Import the required AWS SDK clients and commands for Node.js
 import { SecretsManagerClient, GetSecretValueCommand } from "@aws-sdk/client-secrets-manager";
 import dotenv from "dotenv";
